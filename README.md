@@ -1,4 +1,3 @@
-<img src="https://i.pinimg.com/736x/cf/4c/7c/cf4c7c7a28a5d2ed5cf298e446f12e54.jpg" alt="Story pin image"/><img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/6105e9a9-ecf5-44ca-8f62-54cca49c2d6e" />
-<img src="https://i.pinimg.com/736x/b4/67/ed/b467ed0b677730d70c37d5c86bd15727.jpg" alt="This may contain: the cross - stitch pattern shows several birds in different positions"/><img width="733" height="165" alt="image" src="https://github.com/user-attachments/assets/1c810a76-b732-47df-9411-1a49bcc8522e" />
-<img src="https://i.pinimg.com/originals/10/e5/e0/10e5e04b869723a17c9b88ab8af0d94e.gif" alt="This may contain: a mouse sitting on top of a piano keyboard with its legs in the shape of a mouse"/><img width="300" height="214" alt="image" src="https://github.com/user-attachments/assets/31998d76-be6e-4478-98eb-9b5a0284b656" />
-
+<img src="https://i.pinimg.com/736x/cf/4c/7c/cf4c7c7a28a5d2ed5cf298e446f12e54.jpg" alt="Story pin image"/>
+<img src="https://i.pinimg.com/736x/b4/67/ed/b467ed0b677730d70c37d5c86bd15727.jpg" alt="This may contain: the cross - stitch pattern shows several birds in different positions"/>
+<img src="https://i.pinimg.com/originals/10/e5/e0/10e5e04b869723a17c9b88ab8af0d94e.gif" alt="This may contain: a mouse sitting on top of a piano keyboard with its legs in the shape of a mouse"/>
